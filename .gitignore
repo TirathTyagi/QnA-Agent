@@ -12,3 +12,4 @@ wheels/
 
 # Secret Files
 *.env
+.vscode/
