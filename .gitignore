@@ -8,8 +8,11 @@ wheels/
 
 # Virtual environments
 .venv
-
+venv/
 
 # Secret Files
 *.env
+.env
+
+# IDE and Editor Files
 .vscode/
